@@ -1,0 +1,16 @@
+hash: 342a49b5361f67c8b793b5da1c945dd7db6e72a4f271248244586b2847d3d3fe
+updated: 2017-11-01T11:51:18.387685573+01:00
+imports:
+- name: github.com/dgrijalva/jwt-go
+  version: dbeaa9332f19a944acb5736b4456cfcc02140e29
+- name: github.com/google/go-querystring
+  version: 53e6ce116135b80d037921a7fdd5138cf32d7a8a
+  subpackages:
+  - query
+- name: github.com/namsral/flag
+  version: 71ceffbeb0ba60fccc853971bb3ed4d7d90bfd04
+- name: github.com/op/go-logging
+  version: b2cb9fa56473e98db8caba80237377e83fe44db5
+- name: github.com/xanzy/go-gitlab
+  version: c35b3f712f72376e21b645514ec3635e63fe0cd2
+testImports: []

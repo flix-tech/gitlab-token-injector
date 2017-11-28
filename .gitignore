@@ -1,0 +1,7 @@
+gitlab-token-injector
+vendor/
+*.key
+*.pub
+*.pem
+dist/
+.idea/

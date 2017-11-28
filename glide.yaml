@@ -1,0 +1,10 @@
+package: gitlab.mfb.io/devops/gitlab-token-injector
+import:
+- package: github.com/dgrijalva/jwt-go
+  version: ^3.0.0
+- package: github.com/xanzy/go-gitlab
+  version: ^0.6.2
+- package: github.com/op/go-logging
+  version: ^v1
+- package: github.com/namsral/flag
+  version: v1.7.4-pre
